@@ -1,10 +1,13 @@
 _repo: The-Story-of-a-Child_6664
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Smith, Caroline F.
     gutenberg_agent_id: '2139'
     url: http://www.gutenberg.org/2009/agents/2139
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Loti, Pierre
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/853
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6664#The-Story-of-a-Child
 gutenberg_issued: '2006-04-22'
 gutenberg_type: Text
 identifiers:
